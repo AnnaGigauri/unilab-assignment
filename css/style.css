@@ -1,0 +1,19 @@
+.header{
+	display: flex;
+	align-items: center;
+}
+ul{
+	display: flex;
+	width: 600px;
+	justify-content: space-around;
+	margin-left: 650px;
+	margin-top: 32px;
+	font-family: raleway;
+}
+.nav{
+	color: black;
+}
+.logo{
+	margin-top: 25px;
+	margin-left: 95px;
+}
