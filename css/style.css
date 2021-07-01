@@ -35,8 +35,151 @@ ul{
 	color: white;
 	font-size: 83px;
 }
-.pgph2{
+.pgph{
 	font-size: 16px;
 	margin-top: 35px;
 	margin-left: 160px;
+}
+.divsection2{
+	display: flex;
+	flex-wrap: wrap;
+}
+.divclass2{
+	margin-left: 70px;
+	margin-top: 80px;
+	height: 400px;
+}
+.text{
+	font-family: raleway;
+	color: #8D8D8D;
+	font-size: 20px;
+}
+h2{
+	font-family: raleway;
+	font-weight: bold;
+	font-size: 27px;
+	margin-top: 10px;
+}
+.text2{
+	font-family: raleway;
+	color: #8D8D8D;
+	font-size: 17px;
+	line-height: 25px;
+	text-align: left;
+	margin-top: 41px;
+	width: 245px;
+	height: 145px;
+}
+.section2div2{
+	margin-top: 85px;
+	margin-left: 60px;
+}
+.h2pt2{
+	font-family: raleway;
+	font-size: 18px;
+	margin-top: 27px;
+}
+.pgph2{
+	width: 269px;
+	height: 327px;
+	font-size: 16px;
+	line-height: 24px;
+	color: #8D8D8D;
+	margin-top: 20px;
+	font-family: raleway;
+	height: 100px;
+}
+.divclass3{
+	margin-top: 85px;
+	margin-left: 32px;
+}
+.h2pt3{
+	font-family: raleway;
+	font-size: 18px;
+	margin-top: 27px;
+}
+.pgph3{
+    width: 269px;
+	height: 327px;
+	font-size: 16px;
+	line-height: 24px;
+	color: #8D8D8D;
+	margin-top: 20px;
+	font-family: raleway;
+	height: 100px;
+}
+.divclass4{
+	margin-top: 85px;
+	margin-left: 32px;
+}
+.h2pt4{
+	font-family: raleway;
+	font-size: 18px;
+	margin-top: 27px;
+}
+.pgph4{
+	width: 269px;
+	height: 327px;
+	font-size: 16px;
+	line-height: 24px;
+	color: #8D8D8D;
+	margin-top: 20px;
+	font-family: raleway;
+	height: 100px;
+}
+.seapic{
+	margin-left: 370px;
+}
+.h2pt5{
+	margin-left: 370px;
+	font-size: 18px;
+	margin-top: 27px;
+	font-family: raleway;
+}
+.pgph5{
+	width: 269px;
+	height: 327px;
+	font-size: 16px;
+	line-height: 24px;
+	color: #8D8D8D;
+	margin-top: 20px;
+	font-family: raleway;
+	height: 100px;
+	margin-left: 370px;
+}
+.diveclass6{
+	margin-left:32px; 
+}
+.h2pt6{
+	font-size: 18px;
+	margin-top: 27px;
+	font-family: raleway;
+}
+.pgph6{
+	width: 269px;
+	height: 327px;
+	font-size: 16px;
+	line-height: 24px;
+	color: #8D8D8D;
+	margin-top: 20px;
+	font-family: raleway;
+	height: 200px;
+}
+.divclass7{
+    margin-left:32px; 
+}
+.h2pt7{
+    font-size: 18px;
+	margin-top: 27px;
+	font-family: raleway;
+}
+.pgph7{
+	width: 269px;
+	height: 327px;
+	font-size: 16px;
+	line-height: 24px;
+	color: #8D8D8D;
+	margin-top: 20px;
+	font-family: raleway;
+	height: 200px;
 }
